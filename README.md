@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KennethMechatronics
 - 👀 I’m interested in everything 
-- 🌱 I’m currently a student at Fagskolen I Viken, Kongsberg 
+- 🌱 Hardware Engineer
 
 
 <!---
